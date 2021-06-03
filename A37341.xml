@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration concerning the generall accompts of the kingdome with the true state of all receipts and disbursements of moneys both by land and sea for the use of the Common-wealth, since the first sitting of this Parliament unto the first of Iune, 1642.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37341</idno><idno type="EEBO-CITATION">11894319</idno>
+  <idno type="VID">50536</idno>
+  <idno type="EEBO-PROQUEST">2264196843</idno>
+  
+            <idno type="STC">Wing D570</idno>
+            <idno type="STC">ESTC R6764</idno>
+            <idno type="OCLC">11894319</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A37341)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50536)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 25:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration concerning the generall accompts of the kingdome with the true state of all receipts and disbursements of moneys both by land and sea for the use of the Common-wealth, since the first sitting of this Parliament unto the first of Iune, 1642.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[11] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Bishop for Lawrence Blaiklock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by order of the Honourable House of Commons, assembled in Parliament for the satisfaction of all His Majesties loving subjects"</note>
+                  <note>Appended: An account of monies disbursed out of the tonnage and poundage for the navie and for His Maiesties private use.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Finance --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:50536:1"/>
+                  <pb facs="tcp:50536:1"/>
+                  <p>A DECLARATION Concerning the generall ACCOMPTS OF THE KINGDOME. With the true State of all Receipts and Disbursements of Moneys both by Land and Sea, for the use of the <hi>Common-wealth:</hi> Since the first sitting of this PARLIAMENT unto the first of Iune, 1642.</p>
+                  <q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="license" subtype="Parliamentary_order">
+                              <p>Published by Order of the Honourable House of <hi>Commons,</hi> assembled in <hi>Parliament,</hi> for the satisfaction of all his Majesties loving Subjects.</p>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+                  <p>
+                     <hi>LONDON.</hi> Printed by <hi>Richard Bishop</hi> for <hi>Laurence Blaiklock,</hi> and are to be sold at the Signe of the Sugar Loafe, next Temple Barre in Fleet-Street, 1642.</p>
+               </div>
+               <div type="Parliamentary_order">
+                  <pb facs="tcp:50536:2"/>
+                  <opener>
+                     <dateline>
+                        <date>Die Jovis <hi>5<seg rend="sup">to</seg>
+                           </hi> Junii, <hi>1642.</hi>
+                        </date>
+                     </dateline>
+                  </opener>
+                  <p>IT is this day Ordered by the Commons assembled in Parliament, That the generall State of the Accompts of the Kingdom, and like<g ref="char:EOLhyphen"/>wise the Accompts concerning the Navy, this day presented to the said Commons by Mr. <hi>Trenchard</hi> and Mr. <hi>Green,</hi> be forthwith printed by such person as shall be thereunto appointed by the said Mr. <hi>Tren<g ref="char:EOLhyphen"/>chard</hi> and Mr <hi>Green,</hi> unto whom the care of printing the said Accompts is solely referred; And that no other shall presume to reprint any Co<g ref="char:EOLhyphen"/>pies of the same, but they whom the said Mr <hi>Trenchard</hi> and Mr <hi>Green,</hi> shall appoint.</p>
+                  <closer>
+                     <signed>Hen. Elsynge Cler. Parl. Dom. Com.</signed>
+                  </closer>
+                  <postscript>
+                     <p>Wee doe appoint <hi>Laurence Blaiklock</hi> to print these Accompts, according unto the Order abovesaid.</p>
+                     <closer>
+                        <signed>Iohn Trenchard,<lb/> Giles Greene.</signed>
+                     </closer>
+                  </postscript>
+               </div>
+            </front>
+            <body>
+               <div type="declaration">
+                  <pb facs="tcp:50536:2"/>
+                  <head>A Declaration of the Honourable House of the Commons, concerning the accompts of the Kingdom.</head>
+                  <p>
+                     <seg rend="decorInit">T</seg>He Commons assembled in Parliament, taking into their consideration, that the <hi>Malignant Party</hi> of this Kingdom, the causes of all these distur<g ref="char:EOLhyphen"/>bances in the Common-Wealth, which have enforced the Parliament to raise great and vaste sums upon the Subjects; have likewise beene the Authours of many false aspersions, as if those summes had exceeded the necessity, or were diverted from publike services to the advantage of particular persons; and being thereof very sensible, have thought fit for the satisfaction of all his Majesties Subjects, and removall of such unjust scandals, to publish an accompt of all summes received and disbursed by their Order from the beginning of this Parlia<g ref="char:EOLhyphen"/>ment, untill the first of <hi>Iune,</hi> 1642. that so their own integritie may be cleared, and the people admonished not to give credit to those, who being prevented in their wicked designes of destroying the Parliament by force, do now labour by impudent falschoods and calumnies, to deprive it of the confidence of those whom they repre<g ref="char:EOLhyphen"/>sent, without which, all their paines will be unserviceable to the publike, and uncom<g ref="char:EOLhyphen"/>fortable to themselves.</p>
+                  <p>Before the sitting of this Parliament, the mischievous Councels then prevailing, had caused two Armies of <hi>England</hi> and <hi>Scotland,</hi> to bee brought very neere together, in the bowels of the Kingdom; when for the prevention of blood, and other mischiefes of Warre, it was agreed by the Treaty at <hi>Rippon,</hi> that the summe of twenty five thousand pound a Moneth, should be paid to the Scottish Army, which before it could be dis<g ref="char:EOLhyphen"/>banded, put the Kingdom to the charge of two hundred seventy foure thousand two hundred and fifty pounds.</p>
+                  <p>It was likewise conceived, That the Kings Army could not with honour bee dis<g ref="char:EOLhyphen"/>charged before the removall of the <hi>Scots;</hi> for payment of which, his Majesty was en<g ref="char:EOLhyphen"/>gaged by severall establishments under his Royall <hi>Signature,</hi> and the hands of the Privie Councell. The consideration whereof moved the Parliament, out of a tender regard of his Majesties honour, and for the better securing the peace of the Kingdom, to undertake the payment of that Army, and of the Garisons of <hi>Carlile</hi> and <hi>Barwick:</hi> I he charge whereof was about fifty thousand pound a Month, which from the tenth of <hi>Nowem<g ref="char:EOLhyphen"/>ber</hi> 1640. untill the time of disbanding in <hi>August</hi> and <hi>September</hi> following, amounted to the sum of soure hundred ninety one thousand two hundred pounds, as may easily be collected out of these accompts.</p>
+                  <p>Besides the Monethly payments before mentioned, continued to the <hi>Scots</hi> for above tenne Moneths; The losses and charges which his Majesties loving Subjects of that Nation, had sustained by occasion of these grievances and oppressions, which moved them to come into this Kingdom, were presented to the consideration of this Parlia<g ref="char:EOLhyphen"/>ment,
+<pb facs="tcp:50536:3"/>and by their estimate, did amount to above seven hundred thousand pounds, a summe too great for that Kingdome to beare; which caused the Parliament for their case &amp; reliefe, to afford them a brotherly assistance, of three hundred thousand pound, to besatisfied at three payments <hi>(viz.)</hi> At disbanding eigthty thousand pound; At <hi>Mid<g ref="char:EOLhyphen"/>somer</hi> 1642, one hundred and tenne thousand pound; And at <hi>Midsomer</hi> 1643, one hundred and tenne thousand pound.</p>
+                  <p>These great burthens amounting to a full Million and sixty five thousand foure hundred fifty pound over, as they were caused by the <hi>Malignant Party,</hi> so ought in ju<g ref="char:EOLhyphen"/>stice to be satisfied by them: Towards the effecting whereof divers proceedings were commenced in a Parliamentary way against severall Delinquents, in favour of whom, and to prevent the just benefit which the Common-Wealth might have had by those proceedings, many diversions and obstructions have been interposed, and severall Plots and Designes against the Parliament have been contrived. And whiles the Parliament was conflicting with these great necessities and interruptions, and in a good forward<g ref="char:EOLhyphen"/>nesse to prevaile against both, The Rebellion in <hi>Ireland</hi> brake out, for the speedy sup<g ref="char:EOLhyphen"/>pression whereof the Parliament forthwith provided fifry thousand pound, and after<g ref="char:EOLhyphen"/>wards when the Rebellion increast to that strength and confidence, that the whole Kingdom was infested with it, and all the Irish Papists actually in Armes against this Crown for the rooting out of the Protestant Religion and the English Plantation, in de<g ref="char:EOLhyphen"/>fence and maintenance thereof, they were enforced to raise severall Armies, consisting in all, of above fourty thousand foot, &amp; three thousand foure hundred horse, which are already in <hi>Ireland,</hi> except five thousand foot and five hundred horse to bee raised and maintained at the charge of the Adventurers, which have long beene delayed for want of his Majesties Commission, which cannot yet bee obtained, although both Houses of Parliament have often most earnestly desired the same.</p>
+                  <p>The expences in raising these Armies, and supplying them with victuals and other necessaries, amount to one hundred eighty one thousand eight hundred forty five pound three shillings foure pence, disbursed before the first of <hi>Iune,</hi> 1642. to which are to be added divers payments since, and the Arrears to the souldiers still remaining due, both which wil make a great summe; besides the future growing charge of main<g ref="char:EOLhyphen"/>taining all these Forces, which will come to about eighty thousand pound a Month.</p>
+                  <p>To these Land Forces, we have been compelled to adde a great Fleet at Sea for the defending this Kingdom, and preventing supplies of men and munition to be brought to the Rebels in <hi>Ireland,</hi> for which service are employed upon the Coast of <hi>England</hi> and <hi>Ireland</hi> fifty two Saile of ships, the charge of which ships and other necessaries, and for satisfaction of Arrears for his Majesties Navie, will appeare in the Accompt hereunto annexed to be three hundred twenty foure thousand foure hundred eighty pound ninteen shillings eight pence, besides fifteen saile of ships set out at the charge of the Adventurers.</p>
+                  <p>Notwithstanding all these great burdens upon the Kingdom, his Majesty hath recei<g ref="char:EOLhyphen"/>ved towards the charge of his houshold, the maintenance of his Royall children, the Queen of <hi>Bohemia</hi> and her children, &amp; other private uses, within the space of a yeer ended in <hi>May</hi> last, one hundred eighteen thousand two hundred ninty two pounds nine shil<g ref="char:EOLhyphen"/>lings eleven pence, out of the Tunnage &amp; Poundage, &amp; the Monethly assignments are still continued: The composition for Purveyance are paid towards the maintenance of his Majesties houshold, and some payments to the Forts, which should have been issued out of the Exchequer; Nothing hath been withdrawn from his Majesty of any just profit, or diverted from the publike occasion to the private benefit of any person, as
+<pb facs="tcp:50536:3"/>hath been falsely reported, nor any concealed from the publike, but all the disburse<g ref="char:EOLhyphen"/>ments will clearly appear upon the Account: The particulars wherof, being very large, and not to be contained in lesse than twenty quires of paper, this House hath order<g ref="char:EOLhyphen"/>ed to be forthwith brought in, and to remaine on Record in this House, where any that desire satisfaction, may view them.</p>
+                  <p>And there is good cause to hope that those difficulties might be overcome, and Religion and peace setled in both Kingdomes without any greater burthens upon the Common-wealth, if the Subscription for Adventurers in <hi>Ireland</hi> be furthered in the Country, the summes collected or due by severall Acts may speedily be sent up, and the proceedings against Delinquents freed from those manifold obstructions wherby they have been hindred, that so the Fines to be justly imposed upon them, may be applyed to the ease and satisfaction of the Common-wealth, as in Iustice they ought to be.</p>
+                  <p>But such is the dangerous and miserable condition of this Kingdom, by reason of the malicious and Iesuiticall faction, which have corrupted his Majesties Counsels, captiva<g ref="char:EOLhyphen"/>ted his Person, seized upon his power, and not only withdrawn him from his Parliament, but provoked him to raise Armes against them; And by his countenance possessed themselves of Places of strength in this Kingdom (as they had done at <hi>Hull</hi> if they had not been prevented by the wisdome of the Parliament) and since have effected at <hi>Newcastle</hi> and <hi>Tynmouth,</hi> where Garisons are already placed, and Fortifications begun; that the Parliament can have no breathing or freedom from these mischievous Plots and Designes ever multiplying and renewing against them; whereby the faire hopes of successe of the Irish Warre, all the good Lawes already obtained, and the hopefull endeavours and preparations made in this Parliament for the future safty and prosperi<g ref="char:EOLhyphen"/>tie of the Kingdom are like to end in the destruction of Religion and the publike liber<g ref="char:EOLhyphen"/>ty, if the good Subjects doe not unanimously apply themselves to assist the Parlia<g ref="char:EOLhyphen"/>ment, in redeeming his Majesties Person and government, out of the wicked hands and pernicious Counsels, of those who have conspired to abuse his Authority and power to the destruction of himself and all his people; and which do daily produce effects so dangerous to the State, and burthensome to the Subjects, as neither the wisdome of the Parliament will long be able to resist, nor the Treasure of the Kingdom to defray.</p>
+                  <div type="table_of_receipts">
+                     <pb facs="tcp:50536:4"/>
+                     <head>The generall state of the accompts of the Kingdom, both of moneys borrowed, and otherwise received for the use of the Common-Wealth, from the beginning of this present Parliament, <hi>3<seg rend="sup">d</seg>. Novemb. 1640.</hi> to the first of <hi>Iune. 1642.</hi>
+                     </head>
+                     <head>Receipts.</head>
+                     <p>
+                        <table>
+                           <row>
+                              <cell role="label">Moneys bor<g ref="char:EOLhyphen"/>rowed for the Affaires of England, viz. Of</cell>
+                              <cell role="label">L.</cell>
+                              <cell role="label">D.</cell>
+                              <cell role="label">S.</cell>
+                           </row>
+                           <row>
+                              <cell>THe Aldermen and Citizens of London, as moneys by them lent in <hi>November, December,</hi> and <hi>Ianuary</hi> 1640. fifty thousand pound</cell>
+                              <cell>050000.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>Sir <hi>Iohn Harrison</hi> Knight, for money by him lent, fifty thousand pound</cell>
+                              <cell>050000.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>Master <hi>Isaak Penington</hi> Alderman, and others for money by them lent, nine thousand se<g ref="char:EOLhyphen"/>ven hundred pound</cell>
+                              <cell>009700.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>The Inhabitants of the Wards in London for Moneys by them lent in <hi>February, March, April,</hi> 1640 and 1641. forty foure thousand five hundred sixty seven pound, fifteen shillings foure pence</cell>
+                              <cell>044567.</cell>
+                              <cell>15.</cell>
+                              <cell>04.</cell>
+                           </row>
+                           <row>
+                              <cell>Knights and Esquites of the Honorable House of Parliament, for money by them lent, nineteen thousand pound</cell>
+                              <cell>019000.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>The Aldermen and Citizens of London lent in <hi>May, June,</hi> and <hi>Iuly,</hi> 1641. ninety five thousand nine hundred pound</cell>
+                              <cell>095900.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>Divers Knights and Esquires Members of the House of Parliament, for money lent to the Poll accompt in London, seventy six thousand three hundred sixty pound</cell>
+                              <cell>076360.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell role="total">
+                                 <hi>The Summe, three hundred forty five thousand five hundred twenty seven pound fifteen shillings foure pence</hi>
+                              </cell>
+                              <cell role="total">345527.</cell>
+                              <cell role="total">15.</cell>
+                              <cell role="total">04.</cell>
+                           </row>
+                        </table>
+                     </p>
+                     <p>
+                        <table>
+                           <row>
+                              <cell role="label">Moneys bor<g ref="char:EOLhyphen"/>rowed for Ireland, viz. Of.</cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>The Citizens of London, for suppressing the Rebels in <hi>Ireland,</hi> fourty nine thousand eight hundred twenty three pound</cell>
+                              <cell>049823.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>The Company of Merchant Adventurers in London, seventy thousand pound</cell>
+                              <cell>070000.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>The Adventures for <hi>Ireland</hi> for moneys borrowed upon that Accompt, thirty one thousand pound</cell>
+                              <cell>031000.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>The Members of the Honourable House of Commons upon a second Loane, fourteen thousand five hundred pound.</cell>
+                              <cell>014500.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>Master <hi>Henly</hi> for money by him lent, five thousand pound</cell>
+                              <cell>005000.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>The Inhabitants of the County of Buckingham, by them lent to the accompt of Con<g ref="char:EOLhyphen"/>tributions for <hi>Ireland,</hi> six thousand pound</cell>
+                              <cell>006000.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>Divers others lent to the same accompt two thousand foure hundred pound</cell>
+                              <cell>002400.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell role="total">
+                                 <hi>The Sum, One hundred seventy eight thousand seven hundred twenty three pound</hi>
+                              </cell>
+                              <cell role="total">178723.</cell>
+                              <cell role="total">00.</cell>
+                              <cell role="total">00.</cell>
+                           </row>
+                        </table>
+                     </p>
+                     <p>
+                        <table>
+                           <row>
+                              <cell role="label">Money recei<g ref="char:EOLhyphen"/>ved by way of Subsidie and otherwise, viz. Received of</cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>The foure Subsidies first granted, two hundred sixteen thousand foure hundred fifty six pound, twelve shillings, eight pence</cell>
+                              <cell>216456.</cell>
+                              <cell>12.</cell>
+                              <cell>08.</cell>
+                           </row>
+                           <row>
+                              <cell>Two intire Subsidies due in December, 1641. eighty five thousand seven hundred eighteen pound foure shillings, foure pence</cell>
+                              <cell>085718.</cell>
+                              <cell>04.</cell>
+                              <cell>04.</cell>
+                           </row>
+                           <row>
+                              <cell>The Poll-money paid to the Treasurers in London, one hundred seventy nine thousand one hundred and six pound, eleven shillings eight pence three farthings 179106. 11. 08.</cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>The Poll-money paid to the Treasurers at Westminster, thirtie eight thousand five hundred seventy eight pound, thirteen shillings eight pence 038578. 13. 08.</cell>
+                              <cell>257061.</cell>
+                              <cell>16.</cell>
+                              <cell>11. ¾</cell>
+                           </row>
+                           <row>
+                              <cell>The Poll-mony paid to the Treasurers at York, thirty nine thousand three hundred seventy six pound, eleven shillings, seven pence 039376. 11. 07.</cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>Delinquents <hi>(viz.)</hi> of the late Farments of the Old and New Customs, one hundred sixty five thousand pound</cell>
+                              <cell>165000.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>The Treasurers upon the accompt of Contributions for <hi>Ireland,</hi> eighteen thousand eight hundred thirty eight pound thirteen shillings foure pence</cell>
+                              <cell>018838.</cell>
+                              <cell>13.</cell>
+                              <cell>04.</cell>
+                           </row>
+                           <row>
+                              <cell role="total">
+                                 <hi>The Sum is seven hundred forty three thousand seventy five pound seven shillings three pence three farthings</hi>
+                              </cell>
+                              <cell role="total">743075.</cell>
+                              <cell role="total">07.</cell>
+                              <cell role="total">03. ¾</cell>
+                           </row>
+                           <row>
+                              <cell role="total"> </cell>
+                              <cell role="total">
+                                 <hi>Summe totall of all the Receipts, is One Million, two hundred sixty seven thousand three hundred twenty six pound, two shillings, seven pence, three farthings</hi>
+                              </cell>
+                              <cell role="total">1267326<seg rend="sup">l</seg>.</cell>
+                              <cell role="total">2<seg rend="sup">s</seg>.</cell>
+                              <cell role="total">7<seg rend="sup">d</seg>. ¾</cell>
+                           </row>
+                        </table>
+                     </p>
+                  </div>
+                  <div type="table_of_disbursements">
+                     <pb facs="tcp:50536:4"/>
+                     <head>The generall state of the accompts of the Kingdome of moneys, disbursed for <hi>England, Scotland</hi> and <hi>Ireland,</hi> from the beginning of this present Parliament, <hi>3 Novemb. 1640.</hi> to the first of <hi>June 1642.</hi>
+                     </head>
+                     <head>Disbursements.</head>
+                     <p>
+                        <table>
+                           <row>
+                              <cell role="label">Imprests to divers Trea<g ref="char:EOLhyphen"/>surers and o<g ref="char:EOLhyphen"/>thers for the Affaires of the Common Wealth and by them to be accompted for viz.</cell>
+                              <cell role="label">L.</cell>
+                              <cell role="label">S.</cell>
+                              <cell role="label">D.</cell>
+                           </row>
+                           <row>
+                              <cell>TO the right Honourable the Earle of <hi>Warwick,</hi> and by him paid over to the <hi>Scots,</hi> as by his accompt appeareth, two hundred eighty six thousand three hundred sixty one pound, nineteen shillings foure pence</cell>
+                              <cell>286361.</cell>
+                              <cell>19.</cell>
+                              <cell>0<gap reason="illegible: faint" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>.</cell>
+                           </row>
+                           <row>
+                              <cell>To Sir <hi>William Ʋvedall</hi> Knight, Treasurer at Warres, by him disbursed for the reliefe of his Majesties Army, and the Northern parts of the Kingdome, and for the Garri<g ref="char:EOLhyphen"/>sons of <hi>Barwick</hi> and <hi>Carlile,</hi> as by the particular accompts thereof appeares, three hundred ninety six thousand eight hundred forty three pound</cell>
+                              <cell>396843.</cell>
+                              <cell>0<gap reason="illegible: faint" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>
+                              </cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>To Sir <hi>Iohn Hotham</hi> Knight, for the Garison of <hi>Hull,</hi> six thousand pound</cell>
+                              <cell>006000.</cell>
+                              <cell>00.</cell>
+                              <cell>0<gap reason="illegible: faint" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>.</cell>
+                           </row>
+                           <row>
+                              <cell>To Master <hi>Paylor</hi> for the Garison at <hi>Barwick,</hi> besides the money paid by Sir <hi>William Vvedall</hi> as by his accompts appeares, twenty nine thousand pound</cell>
+                              <cell>029000.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>To Master <hi>Walker</hi> for the Garison at <hi>Carlile,</hi> besides the money paid by Sir <hi>William Vvedall,</hi> as by his accompts appeares, ten thousand pound</cell>
+                              <cell>010000.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>To Colonell <hi>Goring</hi> for the Garison at <hi>Portsmouth</hi> three thousand pound</cell>
+                              <cell>003000.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>To divers Counties imprest for billiting money in the North, as by the accompts at <hi>York</hi> appeares, nine thousand five hundred pound</cell>
+                              <cell>009500.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>To Master <hi>Samuel Vassall</hi> for Fraight of Ships and Corne for <hi>Ireland</hi> five hundred nine<g ref="char:EOLhyphen"/>ty pound</cell>
+                              <cell>000590.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>To Sir <hi>Adam Loftus</hi> Vice-Treasurer of <hi>Ireland,</hi> and <hi>Nicholas Loftus</hi> his Deputy, and divers others for leavying men and transporting them, and provision of Armes and Amunition, and entertainment of the Lord Deputy, and pay of Souldiers, and other the occasions of <hi>Ireland</hi> charged upon his accompt, and to be by him accounted for; one hundred forty nine thousand three hundred sixty eight pound 149368. 00. 00</cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>To Sir <hi>John Smith,</hi> one of the Scotch Commissioners for <hi>Ireland,</hi> twenty two thousand foure hundred seventy seven pound, three shillings fourre pence, 022477. 03. 04</cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell> </cell>
+                              <cell>To Master <hi>Davis</hi> for victualls for <hi>Ireland,</hi> foure thousand pound 4000. 00. 00</cell>
+                              <cell>181845.</cell>
+                              <cell>03.</cell>
+                              <cell>04.</cell>
+                           </row>
+                           <row>
+                              <cell>To the Treasurer and Victualers of the Navie, five thousand pound 5000. 00. 00</cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>Sir <hi>Tho. Staples</hi> for Armes for <hi>London-Derry,</hi> a thousand pound 1000. 00. 00</cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>In all to be cleared by the Accompt of the Treasurer of <hi>Ireland</hi>
+                              </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell role="total">
+                                 <hi>The totall summe</hi> nine hundred twenty three thousand one hundred forty pound two shillings eight pence</cell>
+                              <cell role="total">923140.</cell>
+                              <cell role="total">02.</cell>
+                              <cell role="total">08.</cell>
+                           </row>
+                        </table>
+                     </p>
+                     <p>
+                        <table>
+                           <row>
+                              <cell role="label">Disburse<g ref="char:EOLhyphen"/>ments by warrant for the service of the Realm, viz.</cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>Paid for transporting of the Queen Mother, and her occasions, ten thousand pound</cell>
+                              <cell>10000.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>Paid for Interest of moneyes borrowed, eleven thousand nine hundred ninety one pound, eleven shillings, and eleven pence</cell>
+                              <cell>11991.</cell>
+                              <cell>11.</cell>
+                              <cell>11.</cell>
+                           </row>
+                           <row>
+                              <cell>Paid to the Committee of both Houses appointed to attend the King in <hi>Scotland,</hi> one thousand three hundred and fifty pound, and at <hi>York</hi> two hundred pound, and at <hi>Hull</hi> a hundred and three pound ten shillings, for their severall charges: in all one thousand six hundred fifty three pound ten shillings</cell>
+                              <cell>01653.</cell>
+                              <cell>10.</cell>
+                              <cell>0<gap reason="illegible: faint" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>To Sir <hi>Nicholas Biron</hi> for Horse and Arms delivered to the Magazine at <hi>Carlile,</hi> two hundred pound</cell>
+                              <cell>00200.</cell>
+                              <cell>00.</cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>To <hi>Owen O-conellis</hi> in reward for discovering the Irish Treason, five hundred pound</cell>
+                              <cell>00500.</cell>
+                              <cell>00.</cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>The charge of building a house for a Court of Guard, seventy one pound, fifteen shillings</cell>
+                              <cell>00071.</cell>
+                              <cell>15.</cell>
+                              <cell>00</cell>
+                           </row>
+                           <row>
+                              <cell>The whole charge paid the trained Bands for guarding the Parliament from the 8<seg rend="sup">th</seg> of November 1641 for 20 dayes only, the firm of one hundred twenty one pound ten shillings. Since which time the Parliament hath been guarded without charge to the Common-Wealth.</cell>
+                              <cell>00121.</cell>
+                              <cell>10.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>Fraight of Ships from <hi>Barwick,</hi> beside two hundred twenty pound by Mr <hi>Vassall,</hi> six hun<g ref="char:EOLhyphen"/>dred sixty one pound, ten shillings</cell>
+                              <cell>00661.</cell>
+                              <cell>10.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>To divers persons employed in severall journeys into Yorkshire, <hi>Newcastle, Edenborough, Hull,</hi> and other places, for charges and paines in the same, two hundred seventy six pound, ten shillings</cell>
+                              <cell>00276.</cell>
+                              <cell>10.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>Reward to divers persons for severall services, one hundred sixty foure pound, fourteen shillings</cell>
+                              <cell>00164.</cell>
+                              <cell>14.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>Charges for Clerks, and others attending the accompt of Poll money in <hi>London,</hi> eight hundred and foure pound, sixteen shillings eight pence.</cell>
+                              <cell>00804.</cell>
+                              <cell>16.</cell>
+                              <cell>08.</cell>
+                           </row>
+                           <row>
+                              <cell>Charges of Clerks, and others attending the accompt of Poll money at <hi>York,</hi> one hun<g ref="char:EOLhyphen"/>dred seventy seven pound, thirteen shillings, six pence</cell>
+                              <cell>00177.</cell>
+                              <cell>13.</cell>
+                              <cell>06.</cell>
+                           </row>
+                           <row>
+                              <cell>Paid out of the Contribution moneyes to divers distressed persons that came out of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and sent thither for reliefs, five thousand five hundred seventy some pound,</cell>
+                              <cell>005574.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell role="total">
+                                 <hi>The totall summe, thirty two thousand one hundred ninety seven pound, eleven shillings and a penny</hi>
+                              </cell>
+                              <cell role="total">032197.</cell>
+                              <cell role="total">11.</cell>
+                              <cell role="total">01.</cell>
+                           </row>
+                        </table>
+                     </p>
+                     <p>
+                        <table>
+                           <row>
+                              <cell role="label">Repaid of moneys bor<g ref="char:EOLhyphen"/>rowed.</cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>Repaid to the Citizens of London, and others in part of the moneys borrowed and charged, <hi>per contra,</hi> three hundred six thousand eight hundred forty seven pound, fifteen shillings, fourepence</cell>
+                              <cell>306847<seg rend="sup">l</seg>.</cell>
+                              <cell>15<seg rend="sup">s</seg>.</cell>
+                              <cell>04<seg rend="sup">d</seg>.</cell>
+                           </row>
+                           <row>
+                              <cell role="total">
+                                 <hi>The totall sum of the disbursement, one million, two hundred sixty two thousand one hundred eighty five pound, nine shillings, and a penny</hi>
+                              </cell>
+                              <cell role="total">1262185<seg rend="sup">l</seg>.</cell>
+                              <cell role="total">09<seg rend="sup">s</seg>.</cell>
+                              <cell role="total">01<seg rend="sup">d</seg>.</cell>
+                           </row>
+                        </table>
+                     </p>
+                     <p>
+                        <table>
+                           <row>
+                              <cell role="label">Resting in Cash.</cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>In the hands of the Receivers the first of <hi>Iune,</hi> 1642. towards the further discharge of debts, five thousand one hundred forty pound, thirteen shillings, six pence, three farthings</cell>
+                              <cell>0005140<seg rend="sup">l</seg>.</cell>
+                              <cell>13<seg rend="sup">s</seg>.</cell>
+                              <cell>6<seg rend="sup">d</seg>.¾</cell>
+                           </row>
+                           <row>
+                              <cell>In all to Ballance this accompt, one million, two hundred sixty seven thousand three hundred twenty six pound, two shillings, seven pence, three farthings</cell>
+                              <cell>1267326<seg rend="sup">l</seg>.</cell>
+                              <cell>02<seg rend="sup">s</seg>.</cell>
+                              <cell>07<seg rend="sup">d</seg>.¾</cell>
+                           </row>
+                        </table>
+                     </p>
+                  </div>
+                  <div type="table_of_debts">
+                     <pb facs="tcp:50536:5"/>
+                     <head>Debts and Ingagements, the first of Iune, 1642.</head>
+                     <p>
+                        <table>
+                           <row>
+                              <cell role="label">Debts.</cell>
+                              <cell role="label">L.</cell>
+                              <cell role="label">S.</cell>
+                              <cell role="label">D.</cell>
+                           </row>
+                           <row>
+                              <cell>TO divers Citizens of London parcell of ninety five thousand nine hundred pound by them lent in May, Iune, and Iuly, 1641 for further reliefe of the Northern parts, seventeen thousand foure hundred pound</cell>
+                              <cell>017400.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>To divers persons parcell of seventy six thousand three hundred sixty pound lent and charged in the Poll account of London, twenty six thousand two hundred and foure score pound</cell>
+                              <cell>026280.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>To divers Citizens of <hi>London</hi> to suppresse the Rebellion in <hi>Ireland,</hi> forty nine thou<g ref="char:EOLhyphen"/>sand eight hundred twenty three pound</cell>
+                              <cell>049823.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>To the Merchant Adventurers of <hi>London</hi> for money by them lent, seventy thou<g ref="char:EOLhyphen"/>sand pound</cell>
+                              <cell>070000.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>To the Adventurers for <hi>Ireland,</hi> for money lent out of that Account, thirty one thou<g ref="char:EOLhyphen"/>sand pound</cell>
+                              <cell>031000.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>To divers Members of the Honourable House of Parliament, for money by them lent for the affaires of <hi>Ireland,</hi> fourteen thousand five hundred pound</cell>
+                              <cell>014500.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>To the Inhabitants of the County of <hi>Buckingham,</hi> six thousand pound</cell>
+                              <cell>006000.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>To divers persons for moneys lent to the Account of the Contributions for <hi>Ireland,</hi> two thousand foure hundred pound</cell>
+                              <cell>002400.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell role="total">
+                                 <hi>The Summe, two hundred seventeen thousand foure hundred and three pound</hi>
+                              </cell>
+                              <cell role="total">217403.</cell>
+                              <cell role="total">00.</cell>
+                              <cell role="total">00.</cell>
+                           </row>
+                        </table>
+                     </p>
+                     <p>
+                        <table>
+                           <row>
+                              <cell role="label">Ingage<g ref="char:EOLhyphen"/>ments.</cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>To the Scottish men for their brotherly assistance, besides twenty thousand pound payd them upon the Irish Account, and fourescore thousand pound already payd in part of three hundred thousand pound — two hundred thousand pound</cell>
+                              <cell>200000.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>Claymed for Billet-money, not yet cleared by Accounts, eighty nine thousand foure hundred seventy five pound, thirteen shillings, and eleven pence</cell>
+                              <cell>039475.</cell>
+                              <cell>13.</cell>
+                              <cell>11</cell>
+                           </row>
+                           <row>
+                              <cell>To the Officers of the English Army for pay, besides eleven thousand nine hundred twenty one pound, seven shillings, foure pence, demanded for waggon money, eleven thousand seven hundred sixty seven pound</cell>
+                              <cell>011767.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>To the Garrisons of <hi>Barwick</hi> and <hi>Carlile,</hi> three thousand two hundred ninety nine pounds fifteen shillings, ten pence, one farthing</cell>
+                              <cell>003299.</cell>
+                              <cell>15.</cell>
+                              <cell>10</cell>
+                           </row>
+                           <row>
+                              <cell>To Mr Speaker, six thousand pound</cell>
+                              <cell>006000.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell>To the Companies of <hi>London</hi> for moneys by them lent before the Parliament began, and payd into the Kings Majesties Exchequer, upon the Lords Security, and interest for the same to the second of Aprill 1642. fifty six thousand pound</cell>
+                              <cell>056000.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell role="total">
+                                 <hi>The Summe, three hundred sixty six thousand five hundred forty two pounds, nine shillings and nine pence.</hi>
+                              </cell>
+                              <cell role="total">366542.</cell>
+                              <cell role="total">09.</cell>
+                              <cell role="total">09.</cell>
+                           </row>
+                           <row>
+                              <cell role="total">The totall summe of the Debts and Ingagements, <hi>five hundred eighty three thousand nine hundred forty five pounds, nine shillings and nine pence</hi>
+                              </cell>
+                              <cell>583945.</cell>
+                              <cell>09.</cell>
+                              <cell>09.</cell>
+                           </row>
+                           <row>
+                              <cell>Besides the Arreares now due to our Army in Ireland: Towards which</cell>
+                           </row>
+                        </table>
+                     </p>
+                     <p>
+                        <table>
+                           <row>
+                              <cell role="label">M<gap reason="illegible: missing" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>neys to <gap reason="illegible: missing" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>e recei<g ref="char:EOLhyphen"/>ved, <hi>vizt.</hi>
+                              </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>Money in Cash upon all Accounts, the first of Iune 1642. five thousand one hundred forty pound, thirteen shillings, six pence three farthings</cell>
+                              <cell>005140.</cell>
+                              <cell>13.</cell>
+                              <cell>6. ¾</cell>
+                           </row>
+                           <row>
+                              <cell>To be received upon the Act made for foure hundred thousand pound</cell>
+                              <cell>400000.</cell>
+                              <cell>00.</cell>
+                              <cell>00.</cell>
+                           </row>
+                           <row>
+                              <cell role="total">
+                                 <hi>The Summe, foure hundred five thousand one hundred forty pound, thirteen shillings, six pence three farthings,</hi>
+                              </cell>
+                              <cell>405140</cell>
+                              <cell>13.</cell>
+                              <cell>6. ¾</cell>
+                           </row>
+                        </table>
+                     </p>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="half_title">
+                  <pb facs="tcp:50536:5"/>
+                  <p>An ACCOUNT OF MONIES Disbursed out of the Ton<g ref="char:EOLhyphen"/>nage and Poundage for the NAVIE, and for HIS MAIESTIES Private Use.</p>
+               </div>
+            </front>
+            <body>
+               <div type="table_of_receipts">
+                  <pb facs="tcp:50536:6"/>
+                  <head>AN Account of such Monies as have beene paid into the Receipt of His Majesties Exchequer, by the Collectors of the Customes sithence the 25. day of <hi>May,</hi> 1641. Collected upon the severall Bills of Tonnage and poundage, And since that time disbursed for the use of the Navie and towards the support of his MAIESTIE unto the ninth of <hi>June</hi> 1642.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label"> </cell>
+                           <cell role="label">L.</cell>
+                           <cell role="label">S.</cell>
+                           <cell role="label">D.</cell>
+                        </row>
+                        <row>
+                           <cell>REceaved out of the Collections of the Customes by the Officers of His Majesties receiptin the Exchequer, sithence the 25. of <hi>May,</hi> 1641. As by their accounts ap<g ref="char:EOLhyphen"/>peareth the summ of Two hundred thirty eight thousand, two hundred eighty six pounds, two shillings and two pence.</cell>
+                           <cell>238286.</cell>
+                           <cell>02.</cell>
+                           <cell>02.</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>
+                     <table>
+                        <head>Which money hath beene paid, out as followeth.</head>
+                        <row>
+                           <cell>Imprimis, paid to the Cofferer of his Majesties house-hold in part of the yearely Assigne<g ref="char:EOLhyphen"/>ments, Tenne thousand, one hundred fortie sixe pounds, eighteene shillings nine pence halfepeny</cell>
+                           <cell>010146.</cell>
+                           <cell>18.</cell>
+                           <cell>09</cell>
+                        </row>
+                        <row>
+                           <cell>In monethly payments for the King, Queene and Princes house-hold, The Queene of <hi>Bohemia,</hi> and for repaire of his Majesties houses for thirteene moneths ended <hi>ultio Maii</hi> 1642. Eightie five thousand, nine hundred and sixtie pounds, nineteen shillings eight pence.</cell>
+                           <cell>085960.</cell>
+                           <cell>19.</cell>
+                           <cell>08.</cell>
+                        </row>
+                        <row>
+                           <cell>To the Prince Elector Palatine, in part of his Pension, One thousand pound</cell>
+                           <cell>001000.</cell>
+                           <cell>00.</cell>
+                           <cell>00.</cell>
+                        </row>
+                        <row>
+                           <cell>To the Marquesse <hi>Hartford</hi> for the Prince his Robes, and Privie purse, 8. hundred pounds</cell>
+                           <cell>000800.</cell>
+                           <cell>00.</cell>
+                           <cell>00.</cell>
+                        </row>
+                        <row>
+                           <cell>To the Master of the great Wardrop in part of his Assignment, One Thousand seven hundred &amp; fifty pounds</cell>
+                           <cell>001750.</cell>
+                           <cell>00.</cell>
+                           <cell>00.</cell>
+                        </row>
+                        <row>
+                           <cell>To the Earle of <hi>Holland,</hi> in part of the Arreares for the entertainement of the Garrison at Landguard Fort, One thousand pound</cell>
+                           <cell>001000</cell>
+                           <cell>00.</cell>
+                           <cell>00.</cell>
+                        </row>
+                        <row>
+                           <cell>To the Band of Gentlemen Pentioners for their wages, and board wages for halfe a yeare Three thousand and one pounds, foureteene shillings and two-pence halfe-peny</cell>
+                           <cell>003001.</cell>
+                           <cell>14.</cell>
+                           <cell>02.</cell>
+                        </row>
+                        <row>
+                           <cell>To Sir <hi>Arthur Hopton</hi> Knight Embassador in <hi>Spaine,</hi> upon his entertainement, Two thou<g ref="char:EOLhyphen"/>sand pounds</cell>
+                           <cell>002000.</cell>
+                           <cell>00.</cell>
+                           <cell>00.</cell>
+                        </row>
+                        <row>
+                           <cell>To the Lord <hi>Feilding</hi> Embassador for <hi>Venice,</hi> upon his entertainement, One thousand, three hundred pounds</cell>
+                           <cell>001300.</cell>
+                           <cell>00.</cell>
+                           <cell>00.</cell>
+                        </row>
+                        <row>
+                           <cell>To <hi>Patricke Mawle</hi> Esquire upon his Pention, One hundred twenty five pounds</cell>
+                           <cell>000125.</cell>
+                           <cell>00.</cell>
+                           <cell>00.</cell>
+                        </row>
+                        <row>
+                           <cell>To the East India Company, in part of a debt owing to them by his Majestie for pep<g ref="char:EOLhyphen"/>per, bought by my Lord <hi>Cottington,</hi> Nine thousand foure hundred and thirteene pounds foureteene shillings and seven pence</cell>
+                           <cell>00.9413.</cell>
+                           <cell>14.</cell>
+                           <cell>07.</cell>
+                        </row>
+                        <row>
+                           <cell>To severall persons for Pentions. &amp;c. in small payments to his Majesties use, One thousand seven hundred ninetie foure pounds two shillings and eight pence</cell>
+                           <cell>001794.</cell>
+                           <cell>02.</cell>
+                           <cell>08.</cell>
+                        </row>
+                        <row>
+                           <cell role="total">The Totall of moneys paid to his Majesties private use, one hundred and eight<g ref="char:EOLhyphen"/>teene thousand two hundred ninetie two pounds, nine shillings and ele<g ref="char:EOLhyphen"/>venpence</cell>
+                           <cell role="total">118292.</cell>
+                           <cell role="total">09.</cell>
+                           <cell role="total">11.</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>More paid in part of the severall summes of money for the charge of His Majesties Navie as by the particulars <hi>per cont.</hi> One hun<g ref="char:EOLhyphen"/>dred and nineteene thousand, five hundred and twelve pounds, one shilling foure pence 119512. 01. 04.</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>More paid towards the charge of the Navie <hi>per cont.</hi> out of Fines raised upon Delinquents, five thousand foure hundred and two pounds tenne shillings and a peny 005402. 10. 01.</cell>
+                           <cell>129914.</cell>
+                           <cell>11.</cell>
+                           <cell>05.</cell>
+                        </row>
+                        <row>
+                           <cell>More paid to the charge of the Navie which was borrowed of monies in the hands of the Chamberlain. of <hi>Lon.</hi> 5. thousand pound 005000. 00. 00.</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell role="total">The Total of monies paid to his Majesties private use, aad to the Navie, Two hundred fortie eight thousand, two hundred and seven pounds, one shilling and foure pence</cell>
+                           <cell role="total">248207.</cell>
+                           <cell role="total">01.</cell>
+                           <cell role="total">04.</cell>
+                        </row>
+                        <row>
+                           <cell>By this account, It appeareth there is disbursed more than hath beene receaved from the Collectors of the Customes, Nine thousand nine hundred and twentie pounds, nineteene shillings and two-pence</cell>
+                           <cell>009920.</cell>
+                           <cell>19.</cell>
+                           <cell>02.</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="table_of_charges">
+                  <pb facs="tcp:50536:6"/>
+                  <head>An Account of the Charge of severall Fleetes set forth by Order of <hi>Parliament</hi> since <hi>May Anno</hi> 1641. For the guarding of the Narrow Seas, and defence of this Kingdome, and of <hi>Ireland,</hi> And likewise for the supply of Stores of all sorts for the provision of His Ma<g ref="char:EOLhyphen"/>jesties Navie, and the office of Ordinance, And for the payment of the severall work<g ref="char:EOLhyphen"/>men and Labourers attending His Majesties service about the Navie in His Highnesse Yards of Woolledge, Deptford, Chatham, and Portsmouth.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">
+                              <hi>Imprimis,</hi>
+                           </cell>
+                           <cell role="label">L.</cell>
+                           <cell role="label">S.</cell>
+                           <cell role="label">D.</cell>
+                        </row>
+                        <row>
+                           <cell>THe charge for ten of the Kings Ships, and ten Marchant Ships imployed on the nar<g ref="char:EOLhyphen"/>row Seas <hi>pro Anno</hi> 1641. Fiftie seven thousand five hundred nintie two pounds foure shillings sixe pence</cell>
+                           <cell>0057592.</cell>
+                           <cell>04.</cell>
+                           <cell>06</cell>
+                        </row>
+                        <row>
+                           <cell>The charge of the Ordinary of His Majesties Navie <hi>pro Anno</hi> 1640. Twentie seven thousand sixe hundred and ten pounds, three shillings nine pence, whereof is unpayed, Sixteene thousand eight hundred and ten pounds, three shillings nine pence</cell>
+                           <cell>0016810.</cell>
+                           <cell>03.</cell>
+                           <cell>09</cell>
+                        </row>
+                        <row>
+                           <cell>The charge of the Ordinary of His Majesties Navie, <hi>pro An.</hi> 1641. Twenty seven thou<g ref="char:EOLhyphen"/>sand one hundred twenty two pounds three shillings foure pence</cell>
+                           <cell>0027122.</cell>
+                           <cell>03.</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>The charge of 12. Ships for transporting of Armes and Souldiers for <hi>Hull, Anno</hi> 1640. three thousand two hundred pounds</cell>
+                           <cell>0003200.</cell>
+                           <cell>00.</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>The repaire, lanching and transporting the Prince to <hi>Chatham, An.</hi> 1641. Two thousand one hundred and sixtie pounds</cell>
+                           <cell>0002160.</cell>
+                           <cell>00.</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>For repaire of the Dockes and Wharfes at <hi>Chatham, pro Anno</hi> 1642. One thousand sixe hundred and Twenty pounds</cell>
+                           <cell>0001620.</cell>
+                           <cell>00.</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>The charge of the Ordinary of His Majesties Navie, <hi>pro An.</hi> 1642. to the Treasurer of the Navie, Twenty one thousand fifty sixe pounds, eleven shillings six pence</cell>
+                           <cell>0021056.</cell>
+                           <cell>11.</cell>
+                           <cell>06</cell>
+                        </row>
+                        <row>
+                           <cell>The charge for the Victular of the Navie, for the Ordinary expences, 1642. Seaven thou<g ref="char:EOLhyphen"/>sand sixe hundred fiftie five pounds, seventeene shillings and nine pence</cell>
+                           <cell>0007655.</cell>
+                           <cell>17.</cell>
+                           <cell>09</cell>
+                        </row>
+                        <row>
+                           <cell>The charge for the Emptions of the Office of Ordinance <hi>pro Anno</hi> Two thousand fifty eight pounds, ten shillings foure pence 2058<seg rend="sup">l</seg>. 10<seg rend="sup">s</seg>. 4<seg rend="sup">d</seg>.</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>For the Emptions of the said Office, <hi>pro Anno.</hi> 1642. three thou<g ref="char:EOLhyphen"/>sand three hundred eighty five pounds, one shilling eight pence 3385. 01. 08</cell>
+                           <cell>0005443.</cell>
+                           <cell>12.</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>The charge of foure of His Majesties Ships set forth 1642. imployed for the Coast of <hi>Ireland</hi> for eight moneths, To the Treasurer of the Navie, Eight thousand nine hundred seventy nine pounds, sixteene shillings and eight pence</cell>
+                           <cell>0008979.</cell>
+                           <cell>16.</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>To the Victualler for victualling of the said shippes, Five thousand three hundred sixtie foure pounds, fifteene shillings eight pence</cell>
+                           <cell>0005364.</cell>
+                           <cell>15.</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>The charge of setting forth fifteene of His Majesties Ships, for the Narrow Seas <hi>Anno</hi> 1642. for eight moneths, to the Treasurer of the Navie, Fort e eight thousand three hundred sixty eight pounds, ten shillings</cell>
+                           <cell>0048368.</cell>
+                           <cell>10.</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>To the Victular for victualling the said fifteene Ships, Twenty seaven thousand three hundred fifty nine pounds, sixteene shillings sixpence</cell>
+                           <cell>0027359.</cell>
+                           <cell>16.</cell>
+                           <cell>06</cell>
+                        </row>
+                        <row>
+                           <cell>The charge of twenty foure Marchant Ships set forth <hi>An.</hi> 1642. for eight moneths, <hi>viz.</hi> Three of <hi>Bristoll,</hi> five of Master <hi>Morrice Tompson,</hi> and partners and sixteene others of the City of <hi>London,</hi> Eighty one thousand seven hundred fifty eight pounds, eight shil<g ref="char:EOLhyphen"/>lings</cell>
+                           <cell>0081758.</cell>
+                           <cell>08.</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>The charge of the eight Pynaces, (whereof three of His Majesties, and five Marchant Ships) set forth for the Coast of <hi>Ireland</hi> for Eight moneths, <hi>An.</hi> 1642. seven thousand foure hundred eighty nine pounds</cell>
+                           <cell>0007489.</cell>
+                           <cell>00.</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>The charge of setting forth two Friggotts bought at <hi>Dover</hi> by Order of Parliament, for His Majesties use, Two thousand five hundred pounds</cell>
+                           <cell>0002500.</cell>
+                           <cell>00.</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell role="total">The Totall of the charge abovesaid, Three hundred twenty foure thousand foure hundred and eighty pounds, nineteene shillings eight pence</cell>
+                           <cell role="total">0324480.</cell>
+                           <cell role="total">19.</cell>
+                           <cell role="total">08</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>Whereof paid out of the Customes <hi>per contra,</hi> one hundred nine<g ref="char:EOLhyphen"/>teene thousand five hundred and twelve pounds, one shilling and foure pence 119512<seg rend="sup">l</seg>. 01<seg rend="sup">s</seg>. 04<seg rend="sup">d</seg>.</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>More paid out of the Fines of Delinquents <hi>per contra,</hi> five thou<g ref="char:EOLhyphen"/>sand foure hundred and two pounds 10. shillings and a pennie 005402. 10. 01</cell>
+                           <cell>0129914.</cell>
+                           <cell>11.</cell>
+                           <cell>05</cell>
+                        </row>
+                        <row>
+                           <cell>More paid out of monies borrowed out of the Chamber of <hi>Lon<g ref="char:EOLhyphen"/>don, per contra,</hi> five thousand pounds 005000. 00. 00</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>There remaineth owing upon this account to discharge the abovesaid severall charges, 9. <hi>Iunii</hi> 1642. One hundred ninetie foure thousand, five hundred sixtie sixe pounds, eight shillings and three pence</cell>
+                           <cell>0194566.</cell>
+                           <cell>08.</cell>
+                           <cell>03</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
